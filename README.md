@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/albertaw/social-network-template.svg?branch=master)](https://travis-ci.org/albertaw/social-network-template)
 
 # The Network
@@ -41,3 +42,7 @@ mocha test
 ```
 
 ## Feel Free to send a PR ;)
+=======
+# Wakku
+A Social Network build with NodeJS and Jade Template Engine
+>>>>>>> 37f5f9a295007934f3a8c8eb6828736698aae94e
