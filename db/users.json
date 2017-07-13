@@ -1,0 +1,18 @@
+[
+  {
+    "username": "chick",
+    "email": "chick@localhost.com",
+    "admin": true,
+    "password": "chick",
+    "thumbnail": "img/girl-thumb.png",
+    "avatar": "img/girl-avatar.jpg"
+  },
+  {
+    "username": "root",
+    "email": "root@localhost.com",
+    "admin": true,
+    "password": "root",
+    "thumbnail": "img/boy-thumb.png",
+    "avatar": "img/boy-avatar.jpg"
+  }
+]
